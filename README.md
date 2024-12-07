@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Nikita Schasny!
 
-<!--
-**nschasny/nschasny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+## 🎓 About Me
+- 💻 **Role:** Fullstack Developer
+- 🌟 **Interest:** Front-end development
+- 🎨 **Hobbies:** Swimming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- 🌐 [CodePen](https://codepen.io/Nikita-Schasny-ASU)
+- 💼 [LinkedIn](https://linkedin.com/in/nikita-schasny)
+
+## 📊 GitHub Stats
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
